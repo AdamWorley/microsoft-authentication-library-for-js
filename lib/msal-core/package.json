@@ -32,7 +32,7 @@
     "@types/jasmine": "2.5.41",
     "@types/jasmine-ajax": "^3.1.35",
     "atob": "~2.1.1",
-    "awesome-typescript-loader": "^3.2.3",
+    "awesome-typescript-loader": "^5.2.1",
     "babel-polyfill": "^6.26.0",
     "grunt": "^1.0.3",
     "grunt-banner": "^0.6.0",
