@@ -71,7 +71,7 @@
     "rxjs": "^5.0.1",
     "shx": "^0.2.2",
     "source-map-loader": "^0.2.3",
-    "ts-loader": "^2.0.3",
+    "ts-loader": "^7.0.3",
     "tslib": "^1.7.1",
     "tslint": "^5.8.0",
     "typedoc": "^0.6.0",
