@@ -46,7 +46,7 @@
     "core-js": "^2.4.1",
     "grunt": "^1.0.3",
     "grunt-banner": "^0.6.0",
-    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-uglify": "^5.0.1",
     "grunt-exec": "^2.0.0",
     "grunt-file-append": "0.0.7",
     "grunt-jasmine-node": "~0.3.1",
