@@ -71,7 +71,7 @@
     "typedoc": "^0.6.0",
     "typescript": "^2.5.3",
     "typings": "^2.1.1",
-    "webpack": "^3.6.0"
+    "webpack": "^5.36.2"
   },
   "directories": {
     "test": "tests"
